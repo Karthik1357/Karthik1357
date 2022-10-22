@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthik1357(Vemparala Karthik)
 - 👀 I’m interested in Web3.0,..(I don't actually know my interests. Exploring everything)
 - 🌱 I’m currently learning Solidity,Blockchain, how to use git hub, JS
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on nothing(right now)..But definitely will in the future
 - 📫 How to reach me phone no- 7997092014 email- karthikvemparala123@gmail.com
 
 <!---
